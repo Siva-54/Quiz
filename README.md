@@ -16,7 +16,7 @@ Code Quiz Competition is a real-time platform where users can challenge each oth
 - Multiple-choice questions on programming topics.
 - A timer for each question with a visual countdown.
 - Score tracking to see how you're performing.
-- Fun and educational way to improve programming skills.
+- Fun and educational ways to improve programming skills.
 
 ## Getting Started
 
